@@ -1,4 +1,4 @@
-## Discord HypeSquad Manager
+## Discord HypeSquad Badge Remover & Changer
 
 This is a simple Python script that allows you to remove or change your Discord HypeSquad badge after Discord removed the HypeSquad menu (Thanks Discord!).
 
